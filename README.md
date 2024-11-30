@@ -1,0 +1,2 @@
+# MediLink-AI-A-Centralized-AI-Powered-Platform-for-Rural-Healthcare-Management
+MediLink AI provides predictive analytics to forecast patient health risks, empowering healthcare providers to deliver proactive and personalized care.MediLink AI is an innovative AI-powered platform designed to revolutionize healthcare management in rural areas by centralizing patient data and enabling advanced decision-making.
